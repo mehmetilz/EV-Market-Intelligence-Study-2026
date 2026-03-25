@@ -35,9 +35,10 @@ Our proprietary data-driven framework uses a mathematical model of six key perfo
 * **Rational Choice:** Twingo E-Tech secured a decisive victory with an **83.6% Master Score**, outperforming the segment average in every key metric.
 * **Operational Leadership:** Twingo sets the benchmark with a **3.93 €** running cost and a standard heat pump.
 
-## 🏁 Final Verdict
-The data reveals a clear functional split: While global competitors lead in raw highway efficiency or charging speed, the Renault E-Tech ecosystem masters **'Everyday Reality'**. By balancing technical benchmarks with superior urban agility and modern utility (V2L), bu modeller 2026 EV kullanıcıları için en rasyonel ve geleceğe dönük seçimi tanımlıyor.
+ The raw data, normalization calculations, and the Master Score mathematical model are available in the accompanying Excel file in this repository.
 
+## 🏁 Final Verdict
+The data reveals a clear functional split: While global competitors lead in raw highway efficiency or charging speed, the Renault E-Tech ecosystem masters 'Everyday Reality'. By balancing technical benchmarks with superior urban agility and modern utility (V2L), these models define the most rational and future-proof choice for 2026 EV users.
 ---
 
 **Prepared by:** Mehmet Yılmaz
